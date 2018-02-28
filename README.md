@@ -7,3 +7,4 @@
 [Milking Cows](https://github.com/CreatureOX/USACO/blob/master/milk2.c)  
 [Transformations](https://github.com/CreatureOX/USACO/blob/master/transform.c)  
 [Name That Number](https://github.com/CreatureOX/USACO/blob/master/namenum.c)
+[Palindromic Squares](https://github.com/CreatureOX/USACO/blob/master/palsquare.c)
