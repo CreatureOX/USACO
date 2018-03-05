@@ -8,4 +8,5 @@
 [Transformations](https://github.com/CreatureOX/USACO/blob/master/transform.c)  
 [Name That Number](https://github.com/CreatureOX/USACO/blob/master/namenum.c)  
 [Palindromic Squares](https://github.com/CreatureOX/USACO/blob/master/palsquare.c)  
-[Dual Palindromes](https://github.com/CreatureOX/USACO/blob/master/dualpal.c)[Mixing Milk](https://github.com/CreatureOX/USACO/blob/master/ride.c)
+[Dual Palindromes](https://github.com/CreatureOX/USACO/blob/master/dualpal.c)  
+[Mixing Milk](https://github.com/CreatureOX/USACO/blob/master/ride.c)
