@@ -9,5 +9,5 @@
 [Name That Number](https://github.com/CreatureOX/USACO/blob/master/namenum.c)  
 [Palindromic Squares](https://github.com/CreatureOX/USACO/blob/master/palsquare.c)  
 [Dual Palindromes](https://github.com/CreatureOX/USACO/blob/master/dualpal.c)  
-[Mixing Milk](https://github.com/CreatureOX/USACO/blob/master/milk.c)
+[Mixing Milk](https://github.com/CreatureOX/USACO/blob/master/milk.c)  
 [Barn Repair](https://github.com/CreatureOX/USACO/blob/master/barn1.c)
