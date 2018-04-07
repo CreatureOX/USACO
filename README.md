@@ -11,5 +11,5 @@
 [Dual Palindromes](https://github.com/CreatureOX/USACO/blob/master/dualpal.c)  
 [Mixing Milk](https://github.com/CreatureOX/USACO/blob/master/milk.c)  
 [Barn Repair](https://github.com/CreatureOX/USACO/blob/master/barn1.c)  
-[Prime Cryptarithm](https://github.com/CreatureOX/USACO/blob/master/crypt1.c)
+[Prime Cryptarithm](https://github.com/CreatureOX/USACO/blob/master/crypt1.c)  
 [Arithmetic Progressions](https://github.com/CreatureOX/USACO/blob/master/ariprog.c)
