@@ -15,4 +15,5 @@
 [Arithmetic Progressions](https://github.com/CreatureOX/USACO/blob/master/ariprog.c)  
 [Mother's Milk](https://github.com/CreatureOX/USACO/blob/master/milk3.c)  
 [Number Triangles](https://github.com/CreatureOX/USACO/blob/master/numtri.c)  
-[Prime Palindromes](https://github.com/CreatureOX/USACO/blob/master/pprime.c)
+[Prime Palindromes](https://github.com/CreatureOX/USACO/blob/master/pprime.c)  
+[Superprime Rib](https://github.com/CreatureOX/USACO/blob/master/sprime.c)  
