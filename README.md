@@ -17,3 +17,4 @@
 [Number Triangles](https://github.com/CreatureOX/USACO/blob/master/numtri.c)  
 [Prime Palindromes](https://github.com/CreatureOX/USACO/blob/master/pprime.c)  
 [Superprime Rib](https://github.com/CreatureOX/USACO/blob/master/sprime.c)  
+[Ordered Fractions](https://github.com/CreatureOX/USACO/blob/master/sprime.cpp)
