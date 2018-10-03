@@ -19,4 +19,5 @@
 [Superprime Rib](https://github.com/CreatureOX/USACO/blob/master/sprime.c)  
 [Ordered Fractions](https://github.com/CreatureOX/USACO/blob/master/sprime.cpp)  
 [Sorting a Three-Valued Sequence ](https://github.com/CreatureOX/USACO/blob/master/sort3.c)  
-[Hamming Codes](https://github.com/CreatureOX/USACO/blob/master/hamming.cpp)
+[Hamming Codes](https://github.com/CreatureOX/USACO/blob/master/hamming.cpp)  
+[Preface Numbering](https://github.com/CreatureOX/USACO/blob/master/preface.c)
