@@ -13,7 +13,7 @@
 [Barn Repair](https://github.com/CreatureOX/USACO/blob/master/barn1.c)  
 [Prime Cryptarithm](https://github.com/CreatureOX/USACO/blob/master/crypt1.c)    
 [Combination Lock](https://github.com/CreatureOX/USACO/blob/master/combo.cpp)  
-[Ski Course Design]()
+[Ski Course Design]()  
 [Arithmetic Progressions](https://github.com/CreatureOX/USACO/blob/master/ariprog.c)  
 [Mother's Milk](https://github.com/CreatureOX/USACO/blob/master/milk3.c)  
 [Number Triangles](https://github.com/CreatureOX/USACO/blob/master/numtri.c)  
