@@ -24,3 +24,4 @@
 [Hamming Codes](https://github.com/CreatureOX/USACO/blob/master/hamming.cpp)  
 [Preface Numbering](https://github.com/CreatureOX/USACO/blob/master/preface.c)  
 [Subset Sums]()
+[Runaround Numbers]()
