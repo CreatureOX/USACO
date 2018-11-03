@@ -25,3 +25,4 @@
 [Preface Numbering](https://github.com/CreatureOX/USACO/blob/master/preface.c)  
 [Subset Sums](https://github.com/CreatureOX/USACO/blob/master/subset.c)  
 [Runaround Numbers](https://github.com/CreatureOX/USACO/blob/master/runround.c)
+[Party Lamps]()
