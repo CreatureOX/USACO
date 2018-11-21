@@ -26,3 +26,4 @@
 [Subset Sums](https://github.com/CreatureOX/USACO/blob/master/subset.c)  
 [Runaround Numbers](https://github.com/CreatureOX/USACO/blob/master/runround.c)  
 [Party Lamps](https://github.com/CreatureOX/USACO/blob/master/lamps.cpp)
+[Longest Prefix]()
