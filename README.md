@@ -29,3 +29,4 @@
 [Longest Prefix]()  
 [Zero Sum](https://github.com/CreatureOX/USACO/blob/master/zerosum.c)  
 [Money Systems](https://github.com/CreatureOX/USACO/blob/master/money.c)
+[Controlling Companies]()
