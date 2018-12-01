@@ -28,5 +28,5 @@
 [Party Lamps](https://github.com/CreatureOX/USACO/blob/master/lamps.cpp)  
 [Longest Prefix]()  
 [Zero Sum](https://github.com/CreatureOX/USACO/blob/master/zerosum.c)  
-[Money Systems](https://github.com/CreatureOX/USACO/blob/master/money.c)
-[Controlling Companies]()
+[Money Systems](https://github.com/CreatureOX/USACO/blob/master/money.c)  
+[Controlling Companies](https://github.com/CreatureOX/USACO/blob/master/concom.c)
