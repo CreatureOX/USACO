@@ -29,4 +29,5 @@
 [Longest Prefix]()  
 [Zero Sum](https://github.com/CreatureOX/USACO/blob/master/zerosum.c)  
 [Money Systems](https://github.com/CreatureOX/USACO/blob/master/money.c)  
-[Controlling Companies](https://github.com/CreatureOX/USACO/blob/master/concom.c)
+[Controlling Companies](https://github.com/CreatureOX/USACO/blob/master/concom.c)  
+[The Tamworth Two](https://github.com/CreatureOX/USACO/blob/master/ttwo.c)  
