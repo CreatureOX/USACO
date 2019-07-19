@@ -26,7 +26,7 @@
 [Subset Sums](https://github.com/CreatureOX/USACO/blob/master/subset.c)  
 [Runaround Numbers](https://github.com/CreatureOX/USACO/blob/master/runround.c)  
 [Party Lamps](https://github.com/CreatureOX/USACO/blob/master/lamps.cpp)  
-[Longest Prefix]()  
+[Longest Prefix](https://github.com/CreatureOX/USACO/blob/master/prefix.cpp)  
 [Zero Sum](https://github.com/CreatureOX/USACO/blob/master/zerosum.c)  
 [Money Systems](https://github.com/CreatureOX/USACO/blob/master/money.c)  
 [Controlling Companies](https://github.com/CreatureOX/USACO/blob/master/concom.c)  
