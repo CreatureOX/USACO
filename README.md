@@ -27,7 +27,7 @@
 [Runaround Numbers](https://github.com/CreatureOX/USACO/blob/master/runround.c)  
 [Party Lamps](https://github.com/CreatureOX/USACO/blob/master/lamps.cpp)  
 [Longest Prefix](https://github.com/CreatureOX/USACO/blob/master/prefix.cpp)  
-[Cow Pedigrees]()  
+[Cow Pedigrees](https://github.com/CreatureOX/USACO/blob/master/nocows.cpp)  
 [Zero Sum](https://github.com/CreatureOX/USACO/blob/master/zerosum.c)  
 [Money Systems](https://github.com/CreatureOX/USACO/blob/master/money.c)  
 [Controlling Companies](https://github.com/CreatureOX/USACO/blob/master/concom.c)  
