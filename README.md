@@ -36,4 +36,4 @@
 [Cow Tours](https://github.com/CreatureOX/USACO/blob/master/cowtour.cpp)  
 [Bessie Come Home](https://github.com/CreatureOX/USACO/blob/master/comehome.c)  
 [Fractions to Decimals](https://github.com/CreatureOX/USACO/blob/master/fracdec.cpp)  
-[Agri-Net]()  
+[Agri-Net](https://github.com/CreatureOX/USACO/blob/master/agrinet.cpp)  
