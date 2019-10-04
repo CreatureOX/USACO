@@ -27,7 +27,7 @@ int prim(){
         for(int y = 0; y < n; y++){
         if(!v[y] && d[y] < min){
             min = d[k=y];
-        } 
+            } 
         } 
     }
     return ans;
